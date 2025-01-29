@@ -16,9 +16,10 @@
 
 ## 📱 Projects
 
-### 1. [Project Name 1](https://github.com/yourusername/project1)
-- A brief description of the project.
-- Built with: Swift, SwiftUI, CoreData
+### 1. [SearchLens](https://github.com/rhmt/SearchLens)
+- Supercharge your Google search with summaries from Reddit and beyond.
+- Quickly find key information and generate summaries.
+- Built with: Javascript, HTML
 
 ### 2. [Project Name 2](https://github.com/yourusername/project2)
 - A brief description of the project.
