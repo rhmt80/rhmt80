@@ -16,7 +16,7 @@
 
 ## 📱 Projects
 
-### 1. [SearchLens](https://github.com/rhmt/SearchLens)
+### 1. [SearchLens](https://github.com/rhmt80/SearchLens)
 - Supercharge your Google search with summaries from Reddit and beyond.
 - Quickly find key information and generate summaries.
 - Built with: Javascript, HTML
