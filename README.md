@@ -17,7 +17,7 @@
 
 ## 📱 Projects
 
-### 1. [Project Name 2](https://github.com/rhmt80/NoteShare)
+### 1. [NoteShare](https://github.com/rhmt80/NoteShare)
 - Ideation & Market Research: Identified a gap in student collaboration tools through competitor analysis and user surveys, leading to the concept of NoteShare, an iOS app for students to upload, organize, and share notes.
 - Design & Development: Designed a user-friendly UI in Figma, then built the frontend using UIKit & Storyboard, implementing UICollectionView & UITableView for dynamic note organization and a search feature for handwritten notes.
 - Backend & Data Management: Integrated Firebase Firestore for structured note categorization, Firebase Storage for seamless PDF uploads and retrieval, and optimized real-time data fetching for smooth performance.
