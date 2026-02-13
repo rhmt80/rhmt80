@@ -1,6 +1,6 @@
 # Hi, I'm Rehmat Singh Chawla 👋
 
-🚀 **iOS Developer** | 🌱 **Learning Flutter**  
+🚀 **iOS Developer**
 💡 Passionate about building clean, user-friendly mobile apps.
 
 ---
@@ -9,7 +9,6 @@
 
 - **Programming Languages**: C++, Swift, Java
 - **iOS Development**: Swift, UIKit, CoreData
-- **Cross-Platform**: Learning Flutter (Dart), learning Firebase integration
 - **Tools**: Xcode, Git
 - **Design**: Figma
 
@@ -30,14 +29,6 @@
 - Supercharge your Google search with summaries from Reddit and beyond.
 - Quickly find key information and generate summaries.
 - Built with: Javascript, HTML
-
----
-
-## 🌱 Currently Learning
-
-- Flutter & Dart for cross-platform development
-- Advanced state management in Flutter (e.g., Riverpod, Bloc)
-- Integrating Firebase with Flutter
 
 ---
 
