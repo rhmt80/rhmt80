@@ -1,42 +1,40 @@
-# Hi, I'm Rehmat Singh Chawla 👋
+<h2 align="center">👋 Hey! I'm Rehmat.</h2>
 
-🚀 **iOS Developer**
-💡 Passionate about building clean, user-friendly mobile apps.
-
----
-
-## 🛠️ Skills
-
-- **Programming Languages**: C++, Swift, Java
-- **iOS Development**: Swift, UIKit, CoreData
-- **Tools**: Xcode, Git
-- **Design**: Figma
+<p align="center">
+  <a href="https://www.linkedin.com/in/rhmt80/">LinkedIn</a>
+</p>
 
 ---
 
-## 📱 Projects
-
-### 1. [NoteShare](https://github.com/rhmt80/NoteShare)
-- Ideation & Market Research: Identified a gap in student collaboration tools through competitor analysis and user surveys, leading to the concept of NoteShare, an iOS app for students to upload, organize, and share notes.
-- Design & Development: Designed a user-friendly UI in Figma, then built the frontend using UIKit & Storyboard, implementing UICollectionView & UITableView for dynamic note organization and a search feature for handwritten notes.
-- Backend & Data Management: Integrated Firebase Firestore for structured note categorization, Firebase Storage for seamless PDF uploads and retrieval, and optimized real-time data fetching for smooth performance.
-- Built with: UIKit, SwiftUI, Firebase
-- Frameworks Used: PDFKit, VisionKit
-
-
-  
-### 2. [SearchLens](https://github.com/rhmt80/SearchLens)
-- Supercharge your Google search with summaries from Reddit and beyond.
-- Quickly find key information and generate summaries.
-- Built with: Javascript, HTML
+- 🔭 I’m currently working at [Cambridge Mobile Telematics](https://www.cmtelematics.com) as an iOS Developer  
+- 💬 Ask me about **iOS app development, product thinking, and building emotionally thoughtful mobile experiences**  
+- ⚡ Fun fact: I obsess over how apps *feel*, not just how they work — haptics, micro-interactions, and emotional design matter deeply to me  
 
 ---
 
-## 📫 Let's Connect
+### 🧠 Product Philosophy
 
-- [LinkedIn](https://linkedin.com/in/rhmt80)
-
+> I believe great apps are built at the intersection of **engineering discipline, human emotion, and restraint**.
 
 ---
 
-⭐️ From [Rehmat](https://github.com/rhmt80)
+### 📝 Selected Projects
+
+- [Haptics Trial App for Loop](https://github.com/rhmt80/Haptics)  
+  *Exploring Core Haptics as a medium for emotional communication.*
+
+- [NoteShare](https://github.com/rhmt80/NoteShare)  
+  *A student-focused note sharing platform with emphasis on clarity and usability.*
+
+- [Fall Detection App for Elderly People](https://github.com/rhmt80/Elderly-fall-detection-AndroidApp)  
+  *Safety-oriented application leveraging motion data for real-world impact.*
+
+- [SearchLens](https://github.com/rhmt80/SearchLens)  
+  *A Chrome extension enhancing search results with AI-generated summaries.*
+
+- [Fleetly](https://github.com/rhmt80/Fleetly)  
+  *A fleet management system built with scalability and operational insight in mind.*
+
+---
+
+<!--END_SECTION:rhmt80-->
