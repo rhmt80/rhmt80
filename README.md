@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 I’m currently working at [Cambridge Mobile Telematics](https://www.cmtelematics.com) as an iOS Developer  
+- 🔭 Currently building driver safety products at [Cambridge Mobile Telematics](https://www.cmtelematics.com) as an iOS Developer  
 - 💬 Ask me about **iOS app development, product thinking, and building emotionally thoughtful mobile experiences**  
 - ⚡ Fun fact: I obsess over how apps *feel*, not just how they work — haptics, micro-interactions, and emotional design matter deeply to me  
 
